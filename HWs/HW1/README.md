@@ -8,4 +8,11 @@ Pandas DataFrame is two-dimensional size-mutable, potentially heterogeneous tabu
 
 **Creating a Pandas DataFrame**
 
+Allways starts with import
+
+```
+# import pandas as pd
+import pandas as pd
+```
+
 
