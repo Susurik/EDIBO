@@ -2,7 +2,7 @@ Uzdevuma apraksts
 
 Analysis of Windows Event logs using Pandas DataFrame
 
-What's Windows Event log:
+**What's Windows Event log:**
 
 The Windows event log is a detailed record of system, security and application notifications stored by the Windows operating system that is used by administrators to diagnose system problems and predict future issues.
 
