@@ -1,0 +1,176 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd /var/log
+    4  ls
+    5  sudo less [kern].log
+    6  sudo less [lastlog].log
+    7  exit
+    8  /var/log/boot.log
+    9  lastlog
+   10  who
+   11  pwd
+   12  /cd
+   13  pwd
+   14  cd /home
+   15  pwd
+   16  cd /user
+   17  cd /home/user
+   18  pwd
+   19  c:\
+   20  cls
+   21  clear
+   22  history
+   23  root /user
+   24  ls
+   25  ls /
+   26  cd /root
+   27  cd /sys
+   28  ls
+   29  cd /home/user
+   30  ls /home
+   31  ls /home/
+   32  ls /home/user
+   33  cd /home
+   34  ls
+   35  ls /home/user
+   36  ls /home/sc/
+   37  ls /home/user/desktop
+   38  ls /home/user/Desktop
+   39  pwd
+   40  cd /home/user
+   41  ls
+   42  ls /home/user/downloads
+   43  ls /home/user/Downloads
+   44  cd ls
+   45  ls
+   46  /cd /Desktop
+   47  cd /home/user/Desktop
+   48  cd /home/user
+   49  ls
+   50  cd /Music
+   51  cd /home/user/Music
+   52  cd /home/user
+   53  cd Desktop
+   54  history
+   55  cr
+   56  mkdir New_Folder
+   57  ls
+   58  mkdir Something
+   59  ls
+   60  hostname
+   61  hostname -I
+   62  ping google.com
+   63  ps -aux
+   64  service --status-all
+   65  nslookup
+   66  pwd
+   67  nslookup google.com
+   68  status
+   69  time
+   70  date
+   71  ls -l
+   72  ls -l /home/user/Desktop/New_Folder
+   73  pwd
+   74  ls -l New_Folder
+   75  ls -l /New_Folder
+   76  ls -l ./New_Folder
+   77  ls -l /home/user/Desktop
+   78  /cd home/user/Desktop
+   79  cd /home/user/Desktop
+   80  cd
+   81  pwd
+   82  cd /
+   83  pwd
+   84  cs /
+   85  cd /
+   86  pwd
+   87  cd
+   88  pwd
+   89  cd /etc
+   90  ls
+   91  ls | head
+   92  ls | tail
+   93  ls | head
+   94  ls | head -n 3
+   95  ls | head -n 3 | w
+   96  ls | head -n 3 | wc
+   97  ls | head | wc
+   98  ls | head | wc -c
+   99  cd
+  100  ls Desktop/ | wc -c
+  101  ls Desktop/
+  102  wc --help
+  103  -c --help
+  104  c --help
+  105  ls
+  106  java
+  107  java --showversion
+  108  java --version
+  109  java --show-version
+  110  python
+  111  java
+  112  python
+  113  pwd
+  114  a
+  115  a=123
+  116  a=
+  117  a
+  118  a+2=
+  119  echo a
+  120  a=123
+  121  echo 1
+  122  echo a
+  123  echo $a
+  124  echo 2+a
+  125  echo $2+a
+  126  echo $(2+a)
+  127  echo $a
+  128  c=2
+  129  echo $a $c
+  130  s=','
+  131  echo $a $s $c
+  132  echo $a+$b
+  133  echo date
+  134  echo $date
+  135  a="date"
+  136  echo $a
+  137  a=date|echo $d
+  138  a=date | echo $a
+  139  date
+  140  a='date'
+  141  echo $a
+  142  echo 'date'
+  143  echo `date`
+  144  a=2
+  145  b=2
+  146  echo count(ab)
+  147  import math
+  148  2+2
+  149  2+2=
+  150  2 + 2
+  151  num1 = 2
+  152  num1=1
+  153  num2=2
+  154  sum=num1+num2
+  155  echo $sum=num1+num2
+  156  print sum=num1+num2
+  157  a=2
+  158  b=3
+  159  sum=a+b
+  160  a=2
+  161  b=3
+  162  sum=a+b
+  163  echo $sum
+  164  a=2
+  165  b=3
+  166  echo $((a+b))
+  167  echo $((a+b)) EUR > a.txt
+  168  ls
+  169  ls -l a.txt
+  170  num1=2
+  171  num2=3
+  172  sum=num1+num2
+  173  print('afdfaf'·format(num1,num2,sum))
+  174  ls -l *.txt
+  175  history
+  176  history > b.txt
