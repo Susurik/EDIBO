@@ -1,6 +1,5 @@
-
-#!bin/bash
-user@epk428-14:~$ git config --global user.email andris.timsans@gmail.com
+#!/bin/bash
+git config --global user.email andris.timsans@gmail.com
 git add .
 git commit -m "20200703_16_25"
 git push orgin master
