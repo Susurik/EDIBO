@@ -1,0 +1,14 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  vim
+    4  vinm
+    5  vim
+    6  vim test.sh
+    7  cd
+    8  ls -lt
+    9  ./test.sh
+   10  vim test.sh
+   11  ./test.sh
+   12  ./time
+   13  time ./test.sh
+   14  history > history2
