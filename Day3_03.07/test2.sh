@@ -1,10 +1,7 @@
 #! /bin/bash
-for i in {1..100}
-do
-	echo "$i($date)"
+
+for i in {1..10000}
+        do "Today is: $(date)";
 done
 
-for i in $(date)
-do
-	print "$i"
-done
+echo "Processed in: $SECONDS seconds";
