@@ -1,0 +1,192 @@
+ 1/1: s = "RTU"
+ 1/2: S2 = 2020
+ 1/3: a = 123
+ 1/4: a/2
+ 1/5: a//2
+ 1/6: a%
+ 1/7: a%2
+ 1/8: a%
+ 1/9: a%3
+1/10: a%1
+1/11: 2*100
+1/12: 2**100
+1/13: 2**100/2**99
+   1: s = 2**1000000
+   2: print(s)
+   3: var()
+   4: vars()
+   5: type(s)
+   6: s = "ABCC"
+   7: type(s)
+   8: s.count(A)
+   9: s.count("A")
+  10: d = 2**1000000
+  11: d.count("9)
+  12: d.count("9")
+  13: d = str(d)
+  14: d.count("9")
+  15: d.count("8")
+  16: d.count("7")
+  17: d.count("0")
+  18: d.count("1")
+  19: d.count("1" "2")
+  20: d.count("1","2","3")
+  21: d.count(`1` and `1` and `3`)
+  22: count
+  23: count --doc
+  24: d.count(1,2)
+  25: d.count("3")
+  26: sum(function.count(d) for d in '1 2 3'·split())
+  27: allnum = []
+  28: a
+  29: d
+  30: del(d)
+  31: vars()
+  32: vars()
+  33: del()
+  34: vars()
+  35: %reset
+  36: vars()
+  37: z = complex()
+  38: type(z)
+  39: z
+  40: x = 1.2
+  41: type(x)
+  42: v = " "
+  43: type(v)
+  44: n = b2
+  45: type(b2)
+  46: b = "b2"
+  47: type(b)
+  48: b = `0f`
+  49: b = "0f"
+  50: type(b)
+  51: b = complex(0g)
+  52: z = 3-5j
+  53: type(z)
+  54: print(z)
+  55: c = (11,22)
+  56: type(c)
+  57: c
+  58: dir(c)
+  59: c.count(11)
+  60: c.index.__doc__
+  61: print.c.index.__doc__
+  62: print(c.index.__doc__)
+  63: c.index(1)
+  64: c.index(77)
+  65: c = "11, 22, 77, 11"
+  66: c
+  67: c[0]
+  68: c[-4]
+  69: c[1]
+  70: c
+  71: c[2]
+  72: c[3]
+  73: c = (22, 3.14, 'EDIBO', 3+4J))
+  74: c = (22, 3.14, 'EDIBO', 3+4J)
+  75: C
+  76: c
+  77: type(c)
+  78: c = [22, 3.14, 'EDIBO', 3+4j]
+  79: type(c)
+  80: dir()
+  81: dir(c)
+  82: dir()
+  83: dir(z)
+  84: c.reverse()
+  85: c
+  86: .sort()
+  87: c = [5, 4, 11, 3.14]
+  88: type(c)
+  89: c.sort()
+  90: c
+  91: print(c.sort.__doc__)
+  92: c.reverse
+  93: c.reverse()
+  94: c
+  95: c.sort()
+  96: c.sort(reverse=true)
+  97: c.sort(reverse=True)
+  98: c
+  99: c.append(22)
+ 100: c.append(33)
+ 101: c
+ 102: c.sort()
+ 103: c
+ 104: c.sort(reverse=True)
+ 105: c
+ 106: c.remove(11)
+ 107: c
+ 108: c.append(11)
+ 109: c.sort
+ 110: c.sort()
+ 111: c = ()
+ 112: c
+ 113: type(c)
+ 114: c.append("RIGA")
+ 115: C
+ 116: c
+ 117: c.append("RIGA")
+ 118: c = []
+ 119: c.append("RIGA")
+ 120: c
+ 121: c = ()
+ 122: c.append(sds)
+ 123: c.pop(1)
+ 124: c = []
+ 125: c.append("RIGA")
+ 126: c.pop(1)
+ 127: c
+ 128: c.append(11, 2020)
+ 129: c.append("11, 2020")
+ 130: c
+ 131: c.append("11, 2020")
+ 132: c.remove(RIGA)
+ 133: c.remove("RIGA")
+ 134: c
+ 135: c.sort()
+ 136: c
+ 137: c.pop(1)
+ 138: print(c.pop__doc__)
+ 139: print(c.pop.__doc__)
+ 140: c = {}
+ 141: c
+ 142: d = {}
+ 143: d
+ 144: type()d
+ 145: type(d)
+ 146: d = {'abols':'apple'}
+ 147: d
+ 148: d[abols]
+ 149: d['abols']
+ 150: d.update("bumbieris":'birne')
+ 151: d.update({"bumbieris":'birne'})
+ 152: d
+ 153: print(d.pop.__doc__)
+ 154: d.pop('abols')
+ 155: d
+ 156: d.update({"abols":"apple"})
+ 157: d
+ 158: a = {}
+ 159: a.append("Numbers":123)
+ 160: a.append({"Numbers":123})
+ 161: a.update({"Numbers":123})
+ 162: a={}
+ 163: a.update({"Int":123})
+ 164: a.update({"Float":"12,3"})
+ 165: type()
+ 166: c = 123
+ 167: type(c)
+ 168: c = "abc"
+ 169: type(c)
+ 170: a.update({"String":"ABC"})
+ 171: A
+ 172: a
+ 173: d["Float"]
+ 174: d['Float']
+ 175: a['Float']
+ 176: type(a["Float"])
+ 177: a.update({"Tuple":"apple", "banana", "rtu"})
+ 178: history
+ 179: history -g -f history.txt
