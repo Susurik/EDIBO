@@ -1,0 +1,46 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  font-family: verdana;
+  font-size: 25px;
+  color: #228B22;
+}
+
+table {
+ border-collapse: collapse;
+}
+
+th {
+ font-family: Arial;
+ font-color: #228B22;
+ color: #FF7F50;
+ border-style: solid;
+ border-width: 5px 20px;
+}
+
+footer {
+ text-align: center;
+ font-family: verdana;
+ font-size: 25px;
+ color: #228B22;
+ background:url("https://stuartfamilydental.com/wp-content/uploads/2018/02/StuartFamilyDental-footer-background.png")  repeat-x scroll top transparent;
+ background-size:100% 130px;
+ height: 130px;
+ width:100%;
+ overflow:hidden;
+
+}
+
+#chart{
+ width: 500px;
+ height: 550px;
+ float: right;
+}
