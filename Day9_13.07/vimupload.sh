@@ -4,5 +4,5 @@ then
 	git config --global user.email andris.timsans@gmail.com
 	git add .
 	git commit -m $1
-	git push orgin master
+	git push origin master
 fi
