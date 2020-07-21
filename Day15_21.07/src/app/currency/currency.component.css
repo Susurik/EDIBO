@@ -1,0 +1,64 @@
+table {
+    width: 100%;
+  }
+
+/* #date-container {
+  border-width: 2px;
+} */
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+
+#rate-date {
+  color: darkred;
+  font-weight: bold;
+  border-style: solid;
+  border-bottom: none;
+  border-width: 2px;
+  border-color: black;
+  width: auto;
+  text-align: center;
+}
+
+#rate-usd {
+  color: darkred;
+  font-weight: bold;
+  border-style: solid;
+  border-bottom: none;
+  border-left: none;
+  border-width: 2px;
+  border-color: black;
+  width: auto;
+  text-align: center;
+}
+
+#rate-gbp {
+  color: darkred;
+  font-weight: bold;
+  border-bottom: none;
+  border-left: none;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  width: auto;
+  text-align: center;
+}
+#datums {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#gbp {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#usd {
+  font-weight: bold;
+  font-size: 25px;
+}

@@ -1,0 +1,48 @@
+<h1>Valuta: {{baseRate}}</h1>
+<h2>Datums no {{startDate}} lidz {{endDate}}</h2>
+
+<table class="table-border">
+  <thead>
+    <th>
+      <div id="datums">
+      Datums
+    </div>
+    </th>
+
+    <th>
+      <div id="gbp">
+      Gbp
+    </div>
+    </th>
+    <th>
+      <div id="usd">
+      Usd
+    </div>
+    </th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let rate of rates">
+      <td>
+        <div id="rate-date">
+          {{rate.date}}
+        </div>
+      </td>
+
+      <td>
+        <div id="rate-usd">
+        {{rate.rate.USD}}
+      </div>
+      </td>
+
+      <td>
+        <div id="rate-gbp">
+        {{rate.rate.GBP}}
+      </div>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
+<div>
+  {{rates | json}}
+</div>
