@@ -1,0 +1,15 @@
+<mat-card class="news" *ngFor="let article of data?.articles" border="1">
+    <mat-card-header>
+      <div mat-card-avatar></div>
+      <mat-card-title>{{article.title}}</mat-card-title>
+      <mat-card-subtitle>{{article.source.name}}</mat-card-subtitle>
+    </mat-card-header>
+    <img mat-card-image [src]="article.urlToImage">
+    <mat-card-content>
+      <p>{{article.description}}</p>
+    </mat-card-content>
+    <mat-card-actions>
+      <button mat-button>LIKE</button>
+      <button mat-button>SHARE</button>
+    </mat-card-actions>
+  </mat-card>
