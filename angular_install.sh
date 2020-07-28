@@ -25,13 +25,13 @@ echo "CD home"
 
 cd
 
-echo "Creating new project EDIBO"
+echo "Creating new project EDIBOANGULAR"
 
-ng new EDIBO
+ng new EDIBOANGULAR
 
-echo "CD EDIBO"
+echo "CD EDIBOANGULAR"
 
-cd EDIBO
+cd EDIBOANGULAR
 
 echo "installing angular material"
 
