@@ -19,3 +19,5 @@ mvn clean install
 ./mvnw spring-boot:run
 
 javac filename //compile java file
+
+10.152.16.200
